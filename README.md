@@ -14,8 +14,8 @@
 - In the second level the player shall run on the track by arrow keys and stay away from the virus capsules and collect sanitizer capsules for increasing the health and reach the vaccination centre.
 
 ## Screenshots
-![level1](screenshots/level1.png "level1")
-![level2](screenshots/level2.png "level2")
+![level1](screenshots/3.png "level1")
+![level2](screenshots/14.png "level2")
 
 ## Technologies:
 - Unity3D
@@ -33,4 +33,4 @@
 
 ## How to play:
 - play [online](https://play.unity.com/mg/other/new-unity-game-1) hosted on unity.
-- download the exe file and play in window (pending)
+- run the .exe file present in LIF BUILD folder.
