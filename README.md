@@ -14,19 +14,19 @@
 - In the second level the player shall run on the track by arrow keys and stay away from the virus capsules and collect sanitizer capsules for increasing the health and reach the vaccination centre.
 
 ## Screenshots
-![level1](screenshots/2.jpeg "level1")
-![level1](screenshots/3.jpeg "level1")
-![level1](screenshots/4.jpeg "level1")
-![level1](screenshots/5.jpeg "level1")
-![level1](screenshots/8.jpeg "level1")
-![level1](screenshots/9.jpeg "level1")
-![level1](screenshots/12.jpeg "level1")
-![level1](screenshots/13.jpeg "level2")
-![level2](screenshots/14.jpeg "level2")
-![level2](screenshots/15.jpeg "level2")
-![level2](screenshots/16.jpeg "level2")
-![level2](screenshots/17.jpeg "level2")
-![level2](screenshots/19.jpeg "level2")
+<img src="screenshots/2.jpeg" width="700" height="400">
+<img src="screenshots/3.jpeg" width="700" height="400">
+<img src="screenshots/4.jpeg" width="700" height="400">
+<img src="screenshots/5.jpeg" width="700" height="400">
+<img src="screenshots/8.jpeg" width="700" height="400">
+<img src="screenshots/9.jpeg" width="700" height="400">
+<img src="screenshots/12.jpeg" width="700" height="400">
+<img src="screenshots/13.jpeg" width="700" height="400">
+<img src="screenshots/14.jpeg" width="700" height="400">
+<img src="screenshots/15.jpeg" width="700" height="400">
+<img src="screenshots/16.jpeg" width="700" height="400">
+<img src="screenshots/17.jpeg" width="700" height="400">
+<img src="screenshots/19.jpeg" width="700" height="400">
 
 ## Technologies:
 - Unity3D
