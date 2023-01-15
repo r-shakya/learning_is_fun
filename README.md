@@ -14,8 +14,19 @@
 - In the second level the player shall run on the track by arrow keys and stay away from the virus capsules and collect sanitizer capsules for increasing the health and reach the vaccination centre.
 
 ## Screenshots
+![level1](screenshots/2.jpeg "level1")
 ![level1](screenshots/3.jpeg "level1")
+![level1](screenshots/4.jpeg "level1")
+![level1](screenshots/5.jpeg "level1")
+![level1](screenshots/8.jpeg "level1")
+![level1](screenshots/9.jpeg "level1")
+![level1](screenshots/12.jpeg "level1")
+![level1](screenshots/13.jpeg "level2")
 ![level2](screenshots/14.jpeg "level2")
+![level2](screenshots/15.jpeg "level2")
+![level2](screenshots/16.jpeg "level2")
+![level2](screenshots/17.jpeg "level2")
+![level2](screenshots/19.jpeg "level2")
 
 ## Technologies:
 - Unity3D
